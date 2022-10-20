@@ -1,0 +1,79 @@
+body {
+  padding: 0%;
+  font-size: 18px;
+}
+h1 {
+  font-size: 60px;
+  margin-left: 70px;
+}
+p {
+  margin-left: 70px;
+  text-align: left;
+  font-size: 15px;
+}
+
+.first-flex {
+  display: flex;
+}
+
+.first-div {
+  width: 50%;
+  padding: 120px;
+  padding-right: 30px;
+}
+
+.first-div img {
+  width: 50%;
+  padding: 02px;
+}
+.button {
+  text-decoration: none;
+  color: black;
+  background-color: skyblue;
+  width: 30px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-weight: 700;
+
+  margin-left: 70px;
+}
+
+.frame {
+  border-left: 5px solid;
+  border-color: skyblue;
+}
+.box-one {
+  background-color: seashell;
+}
+.box-two {
+  background-color: snow;
+}
+.box-three {
+  background-color: seashell;
+}
+.para {
+  text-align: auto;
+  font-size: 16px;
+  line-height: 14px;
+}
+
+.icon {
+  width: 150px;
+}
+.all {
+  border-radius: 60px;
+  margin: 20px 35px;
+  box-shadow: 10px 10px 40px skyblue;
+  padding: 25px 25px;
+  width: 70%;
+}
+
+.picture-one {
+  width: 100%;
+  padding: 2px;
+}
+.third-div {
+  width: 80%;
+  padding: 20px;
+  padding-right: 30px;
+}
